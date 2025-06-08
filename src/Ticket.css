@@ -1,0 +1,13 @@
+.Ticket{
+    border: 2px solid palevioletred;
+    border-radius: 14px;
+    width: 20rem;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+.WinningHeadline{
+    background-color: aqua;
+    border-radius: 15px;
+    font-size: 1.5rem;
+}
